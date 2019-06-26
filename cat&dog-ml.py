@@ -10,4 +10,4 @@ mosanif = mosanif.fit(khsais,naw3)
 age=input("entre the age:")
 poids=input("entre his poids with(kg):")
 print(mosanif.predict([[age,poids]]))
-#This program is programmed thanks yah04 
+#This program is programmed thanks yah04 You can change the names of variables and examples according to your needs
