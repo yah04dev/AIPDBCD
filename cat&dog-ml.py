@@ -1,4 +1,4 @@
-khsais=[[2,3],[1,5],[3,5],[8,6],[2,10],[5,3],[3,15],[10,6.5],[7,17],[17,25]
+khsais=[[2,3],[1,5],[3,5],[8,6],[2,10],[5,3],[3,15],[10,6.5],[7,17],[17,25]]
 #ksais are a variable or groupe of lists countain a groupe of exampels of cat & dog [age,weight]
 naw3=["cat","dog","cat","cat","dog","cat","dog","cat","dog","dog"]
 #ksais are a variable or groupe of lists Shows each characteristic and who owns it
